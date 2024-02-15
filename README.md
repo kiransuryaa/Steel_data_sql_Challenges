@@ -22,6 +22,12 @@ Can you analyse the following data to find out all about the tournament?
 You are a Customer Insights Analyst for ‘The General Store’
 Can you analyse the following tables to find out crucial information about your customers to provide to your marketing team?
 
+
+## [Challenge 4 - Finance Analysis](https://github.com/kiransuryaa/Steel_data_sql_Challenges/blob/main/Challenge%203%20-%20customer_insights.sql)
+### Problem Statement
+You are a Finance Analyst working for ‘The Big Bank’
+You have been tasked with finding out about your customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into your customers.
+
 ### My Approch 
 I have used MYSQL to solve the given questions, where i have tried various approch to solve questions.
 Functions that I have used for analysis are:
@@ -32,4 +38,6 @@ Functions that I have used for analysis are:
   - HAVING
   - LIMIT
   - AGGRIGATE FUNCTIONS (SUM, AVG, COUNT, ROUND, MAX)
+  - WINDOWS FUNCTIONS like DENSE_RANK(), RANK()
+  - WITH clause
 
