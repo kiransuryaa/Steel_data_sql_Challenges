@@ -28,6 +28,9 @@ Can you analyse the following tables to find out crucial information about your 
 You are a Finance Analyst working for ‘The Big Bank’
 You have been tasked with finding out about your customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into your customers.
 
+
+## [Challenge 5 - Pub Pricing Analysis](https://github.com/kiransuryaa/Steel_data_sql_Challenges/blob/main/Challenge%205%20-%20Pub_Pricing_Analysis.sql)
+
 ### My Approch 
 I have used MYSQL to solve the given questions, where i have tried various approch to solve questions.
 Functions that I have used for analysis are:
