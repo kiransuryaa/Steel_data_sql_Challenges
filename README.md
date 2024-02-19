@@ -30,12 +30,22 @@ You have been tasked with finding out about your customers and their banking beh
 
 
 ## [Challenge 5 - Pub Pricing Analysis](https://github.com/kiransuryaa/Steel_data_sql_Challenges/blob/main/Challenge%205%20-%20Pub_Pricing_Analysis.sql)
+### Problem Statement
+You are a Pricing Analyst working for a pub chain called ‘Pubs “R” Us’
+You have been tasked with analysing the drinks prices and sales to gain a greater insight into how the pubs in your chain are performing.
+
+
+## [Challenge 6 - Marketing Analysis](https://github.com/kiransuryaa/Steel_data_sql_Challenges/blob/main/challenge%206%20-%20Marketing%20_Analysis.sql)
+### Problem Statement
+You work as a Marketing Analyst for the 'Sustainable Clothing Co.' and have been tasked with evaluating the success of their various marketing campaigns. Review the provided data and respond to the questions to formulate your analysis.
+
 
 ### My Approch 
 I have used MYSQL to solve the given questions, where i have tried various approch to solve questions.
 Functions that I have used for analysis are:
   - JOINS (INNER, LEFT)
   - WHERE clause
+  - CASE Statement
   - GROUP BY 
   - ORDER BY
   - HAVING
