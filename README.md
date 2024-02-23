@@ -40,8 +40,12 @@ You have been tasked with analysing the drinks prices and sales to gain a greate
 You work as a Marketing Analyst for the 'Sustainable Clothing Co.' and have been tasked with evaluating the success of their various marketing campaigns. Review the provided data and respond to the questions to formulate your analysis.
 
 
+## [Challenge 7 - Healthcare Analysis](https://github.com/kiransuryaa/Steel_data_sql_Challenges/blob/main/Challenge%207%20-%20Healthcare_Analysis.sql)
+### Problem Statement
+As a Healthcare Analyst, your task is to review hospital records to monitor the advancement of prevalent illnesses. This analysis will contribute to shaping a public health initiative.
+
 ### My Approch 
-I have used MYSQL to solve the given questions, where i have tried various approch to solve questions.
+I have used MYSQL to solve the above challenges, where i have tried various approch to solve questions.
 Functions that I have used for analysis are:
   - JOINS (INNER, LEFT)
   - WHERE clause
